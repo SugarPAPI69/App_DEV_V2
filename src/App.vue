@@ -34,24 +34,7 @@
     </nav>
     <br />
     <router-view />
-      <div class="name">
-      <div class="letter">
-        <img src="../assets/img/crash.png" class="letter-image">
-      </div>
-      <div class="letter">
-        <img src="../assets/img/drake.png" class="letter-image">
-      </div>
-      <div class="letter">
-        <img src="../assets/img/gta.jpg" class="letter-image">
-      </div>
-      <div class="letter">
-        <img src="../assets/img/pacman.jpg" class="letter-image">
-      </div>
-      <div class="letter">
-        <img src="../assets/img/lol.jpg" class="letter-image">
-      </div>
-      
-    </div>
+   
     
   </div>
 </template>
