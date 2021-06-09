@@ -5,18 +5,23 @@
     <div class="name">
       <div class="letter">
         <img src="../assets/img/crash.png" class="letter-image">
+        <p>First Game ive ever played  still holds up[ til this day- Ricky Brain </p>
       </div>
       <div class="letter">
         <img src="../assets/img/drake.png" class="letter-image">
+        <p>Tomb Raider Clone lol, First entry on my favourite video game series (Made by Naughtydog same devs on that crash game)- Ricky Brain </p>
       </div>
       <div class="letter">
         <img src="../assets/img/gta.jpg" class="letter-image">
+        <p>The OG 3d Open world game - Ricky Brain </p>
       </div>
       <div class="letter">
         <img src="../assets/img/pacman.jpg" class="letter-image">
+        <p>Played the heck out this game at our local arcade- Ricky Brain </p>
       </div>
       <div class="letter">
         <img src="../assets/img/lol.jpg" class="letter-image">
+        <p>This is where toxic ricky was created : ) - Ricky Brain </p>
       </div>
       
     </div>
